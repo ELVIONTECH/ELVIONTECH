@@ -28,16 +28,18 @@ A **ELVION TECH** é um laboratório independente de inovação digital, focado 
 
 ## 🧩 Linhas de produto
 
+> Os nomes com link abrem a vitrine de cada produto (código-fonte privado).
+
 | | Projeto | O que faz | Stack |
 |:-:|---|---|---|
-| 📄 | **ChicletePDF** | App Android para criar e editar PDFs | Flutter · Dart · Firebase |
-| 📣 | **Social Media Automation** | Publica vídeos, reels e posts em várias redes ao mesmo tempo | JavaScript · Node.js |
+| 📄 | [**ChicletePDF**](https://github.com/ELVIONTECH/chicletepdf-vitrine) | App Android para criar e editar PDFs | Flutter · Dart · Firebase |
+| 📣 | [**Social Media Automation**](https://github.com/ELVIONTECH/social-media-automation-vitrine) | Publica vídeos, reels e posts em várias redes ao mesmo tempo | JavaScript · Node.js |
 | 🤖 | **Lai** | Assistente de IA no WhatsApp para qualificar leads | TypeScript · Supabase |
-| 🏡 | **Plataforma de Temporada** | Hospedagem e reservas de casas de temporada | Next.js · TypeScript |
+| 🏡 | [**Hospede-se**](https://github.com/ELVIONTECH/hospedese-vitrine) | Hospedagem e reservas de casas de temporada | Next.js · TypeScript |
 | 🧮 | **Calculadora Imobiliária** | Cálculos e indicadores para negócios imobiliários | Web |
 | 🪚 | **Marceneiro AI** | Orçamentos e projetos de marcenaria com IA | JavaScript · HTML |
-| 🧹 | **LimpaJá** | Marketplace de serviços de limpeza | TypeScript |
-| 🍔 | **BocãoFood** | App de delivery com módulos de cliente, restaurante e entregador | FastAPI · MongoDB · TypeScript |
+| 🧹 | [**LimpaJá**](https://github.com/ELVIONTECH/limpaja-vitrine) | Marketplace de serviços de limpeza | TypeScript |
+| 🍔 | [**BocãoFood**](https://github.com/ELVIONTECH/bocaofood-vitrine) | App de delivery com módulos de cliente, restaurante e entregador | FastAPI · MongoDB · TypeScript |
 | 💠 | **QuantumHeal** | Plataforma Heal-to-Earn de bem-estar com recompensas | Next.js · Firebase |
 
 ---
