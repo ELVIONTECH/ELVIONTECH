@@ -58,12 +58,11 @@ A **ELVION TECH** é um laboratório independente de inovação digital, focado 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ELVIONTECH&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELVIONTECH&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+<img src="https://streak-stats.demolab.com?user=ELVIONTECH&theme=tokyonight&hide_border=true&locale=pt_BR" width="70%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ELVIONTECH&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://ghchart.rshah.org/0b3d91/ELVIONTECH" width="95%"/>
 
 </div>
 
