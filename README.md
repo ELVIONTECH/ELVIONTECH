@@ -33,12 +33,12 @@ A **ELVION TECH** é um laboratório independente de inovação digital, focado 
 | 📄 | **ChicletePDF** | App Android para criar e editar PDFs | Flutter · Dart · Firebase |
 | 📣 | **Social Media Automation** | Publica vídeos, reels e posts em várias redes ao mesmo tempo | JavaScript · Node.js |
 | 🤖 | **Lai** | Assistente de IA no WhatsApp para qualificar leads | TypeScript · Supabase |
-| 🏡 | **Plataforma de Temporada** | Hospedagem e reservas de casas de temporada | TypeScript |
+| 🏡 | **Plataforma de Temporada** | Hospedagem e reservas de casas de temporada | Next.js · TypeScript |
 | 🧮 | **Calculadora Imobiliária** | Cálculos e indicadores para negócios imobiliários | Web |
 | 🪚 | **Marceneiro AI** | Orçamentos e projetos de marcenaria com IA | JavaScript · HTML |
 | 🧹 | **LimpaJá** | Marketplace de serviços de limpeza | TypeScript |
-| 🍔 | **BocãoFood** | Plataforma de delivery de comida | TypeScript |
-| 💠 | **QuantumHeal** | App de bem-estar | TypeScript |
+| 🍔 | **BocãoFood** | App de delivery com módulos de cliente, restaurante e entregador | FastAPI · MongoDB · TypeScript |
+| 💠 | **QuantumHeal** | Plataforma Heal-to-Earn de bem-estar com recompensas | Next.js · Firebase |
 
 ---
 
